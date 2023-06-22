@@ -60,6 +60,9 @@ Example of API response--
   "cod": 200
 }                        
 
-                        
+           ![Grant Access](https://github.com/Ashish5692/Weather-App/assets/92576127/78a18503-2495-47bb-959b-6f6de193dc56)
+             
          
-  
+  ![My Weather Page](https://github.com/Ashish5692/Weather-App/assets/92576127/ce77133c-f2fe-4d2e-b9e2-3e7871a4eeae)
+![Search Weather](https://github.com/Ashish5692/Weather-App/assets/92576127/eba70df2-b4d1-427e-9428-0014c4527b08)
+
